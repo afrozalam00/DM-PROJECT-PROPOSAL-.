@@ -1,0 +1,26 @@
+C:\Users\Corona\Downloads\TutsCSharpCrypto-master\TutsCSharpCrypto-master\CryptoUtilsConsole\bin\Debug\CryptoUtilsConsole.exe.config
+C:\Users\Corona\Downloads\TutsCSharpCrypto-master\TutsCSharpCrypto-master\CryptoUtilsConsole\bin\Debug\CryptoUtilsConsole.exe
+C:\Users\Corona\Downloads\TutsCSharpCrypto-master\TutsCSharpCrypto-master\CryptoUtilsConsole\bin\Debug\CryptoUtilsConsole.pdb
+C:\Users\Corona\Downloads\TutsCSharpCrypto-master\TutsCSharpCrypto-master\CryptoUtilsConsole\obj\Debug\CryptoUtilsConsole.csprojAssemblyReference.cache
+C:\Users\Corona\Downloads\TutsCSharpCrypto-master\TutsCSharpCrypto-master\CryptoUtilsConsole\obj\Debug\CryptoUtilsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Corona\Downloads\TutsCSharpCrypto-master\TutsCSharpCrypto-master\CryptoUtilsConsole\obj\Debug\CryptoUtilsConsole.exe
+C:\Users\Corona\Downloads\TutsCSharpCrypto-master\TutsCSharpCrypto-master\CryptoUtilsConsole\obj\Debug\CryptoUtilsConsole.pdb
+C:\Users\Corona\Desktop\DM TASK\DM-Afroz-Task\CryptoUtilsConsole\bin\Debug\CryptoUtilsConsole.exe.config
+C:\Users\Corona\Desktop\DM TASK\DM-Afroz-Task\CryptoUtilsConsole\bin\Debug\CryptoUtilsConsole.exe
+C:\Users\Corona\Desktop\DM TASK\DM-Afroz-Task\CryptoUtilsConsole\bin\Debug\CryptoUtilsConsole.pdb
+C:\Users\Corona\Desktop\DM TASK\DM-Afroz-Task\CryptoUtilsConsole\obj\Debug\CryptoUtilsConsole.csprojAssemblyReference.cache
+C:\Users\Corona\Desktop\DM TASK\DM-Afroz-Task\CryptoUtilsConsole\obj\Debug\CryptoUtilsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Corona\Desktop\DM TASK\DM-Afroz-Task\CryptoUtilsConsole\obj\Debug\CryptoUtilsConsole.exe
+C:\Users\Corona\Desktop\DM TASK\DM-Afroz-Task\CryptoUtilsConsole\obj\Debug\CryptoUtilsConsole.pdb
+C:\Users\MAJOR\Desktop\DM-Afroz-Task\CryptoUtilsConsole\bin\Debug\CryptoUtilsConsole.exe.config
+C:\Users\MAJOR\Desktop\DM-Afroz-Task\CryptoUtilsConsole\obj\Debug\CryptoUtilsConsole.exe
+C:\Users\MAJOR\Desktop\DM-Afroz-Task\CryptoUtilsConsole\obj\Debug\CryptoUtilsConsole.pdb
+C:\Users\MAJOR\Desktop\DM-Afroz-Task\CryptoUtilsConsole\bin\Debug\CryptoUtilsConsole.exe
+C:\Users\MAJOR\Desktop\DM-Afroz-Task\CryptoUtilsConsole\bin\Debug\CryptoUtilsConsole.pdb
+C:\Users\MAJOR\Desktop\DM-Afroz-Task\CryptoUtilsConsole\bin\Debug\mscorlib.dll
+C:\Users\MAJOR\Desktop\DM-Afroz-Task\CryptoUtilsConsole\bin\Debug\normidna.nlp
+C:\Users\MAJOR\Desktop\DM-Afroz-Task\CryptoUtilsConsole\bin\Debug\normnfc.nlp
+C:\Users\MAJOR\Desktop\DM-Afroz-Task\CryptoUtilsConsole\bin\Debug\normnfd.nlp
+C:\Users\MAJOR\Desktop\DM-Afroz-Task\CryptoUtilsConsole\bin\Debug\normnfkc.nlp
+C:\Users\MAJOR\Desktop\DM-Afroz-Task\CryptoUtilsConsole\bin\Debug\normnfkd.nlp
+C:\Users\MAJOR\Desktop\DM-Afroz-Task\CryptoUtilsConsole\obj\Debug\CryptoUtilsConsole.csprojResolveAssemblyReference.cache
