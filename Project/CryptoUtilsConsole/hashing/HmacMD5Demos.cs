@@ -33,9 +33,9 @@ namespace CryptoUtilsConsole.hashing
             Console.WriteLine("INPUT HERE :");
 
             Console.WriteLine("");
-
+             //taking input for method.
             string message = Console.ReadLine();
-
+              // pass the input through parameter to function
             byte[] hashmeHashed = getHMACMD5(message);
             string result = BitConverter.ToString(hashmeHashed).Replace("-", "");
 
