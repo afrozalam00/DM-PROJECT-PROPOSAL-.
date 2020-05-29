@@ -6,6 +6,7 @@ namespace CryptoUtilsConsole.hashing
 {
     class Md5Demos
     {
+        //modified string padding ke bd convert hoga hash mai and convert character in to same size.
         public static string Md5_convertstr(string str)
         {
             MD5 hash = MD5.Create();
@@ -19,7 +20,7 @@ namespace CryptoUtilsConsole.hashing
 
             return sb.ToString();
         }
-
+        // yaha string ko just hash mai convert krne ke lye us m se space or baqi cheez remove krega 
         public static string GetMd5_Converter(string message)
         {
             using (var md5 = MD5.Create())
