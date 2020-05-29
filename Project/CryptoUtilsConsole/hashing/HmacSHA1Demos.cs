@@ -29,14 +29,14 @@ namespace CryptoUtilsConsole.hashing
 
             Console.WriteLine(" Hmac SHA1 HASH RUNNING ");
             Console.WriteLine("_________________________");
-
+          //take input here 
             Console.WriteLine("INPUT HERE :");
             Console.WriteLine("");
-
+          // pass the input to entire method to calculate hash
             string message = Console.ReadLine();
             byte[] hashmeHashed = getHMACSHA1(message);
 
-
+            //print the hash in to console
             string result = BitConverter.ToString(hashmeHashed).Replace("-", "");
             Console.WriteLine("SHA1 : " + result);
 
